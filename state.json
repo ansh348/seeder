@@ -1,10 +1,10 @@
 {
-  "current_row": 28,
+  "current_row": 29,
   "total_rows": 374,
-  "completed_subtopics": ["Action Potentials & Synaptic Integration", "Gas Exchange: Ventilation/Perfusion Matching", "Immunity: B/T Cells & Antibody Production", "Kidney Function & Osmoregulation (Nephron)", "Muscle Structure & Sliding Filament", "Reproductive Hormones & Menstrual Cycle", "CRISPR–Cas Systems (Qualitative)", "Cloning Vectors & Recombinant DNA", "Culturing & Bioreactors (Basics)", "Ethical, Legal & Social Implications", "PCR/qPCR & DNA Profiling", "Restriction Enzymes & DNA Ligation", "Cell Division: Cell Cycle & Mitosis", "Cell Theory & Cell Size (SA:V)", "Membrane Structure & Transport (Intro)", "Microscopy, Magnification & Measurement", "Origin of Cells & Endosymbiosis", "Prokaryotic vs Eukaryotic Ultrastructure", "Apoptosis Pathways", "Feedback Loops & Crosstalk", "Gene Regulation via Signalling", "Receptors: GPCRs & RTKs", "Second Messengers (cAMP, Ca2+)", "Signal Cascades & Amplification", "Cell Differentiation & Stem Cells", "Cleavage, Gastrulation & Germ Layers"],
-  "current_subtopic": "Gametogenesis & Fertilization",
+  "completed_subtopics": ["Action Potentials & Synaptic Integration", "Gas Exchange: Ventilation/Perfusion Matching", "Immunity: B/T Cells & Antibody Production", "Kidney Function & Osmoregulation (Nephron)", "Muscle Structure & Sliding Filament", "Reproductive Hormones & Menstrual Cycle", "CRISPR–Cas Systems (Qualitative)", "Cloning Vectors & Recombinant DNA", "Culturing & Bioreactors (Basics)", "Ethical, Legal & Social Implications", "PCR/qPCR & DNA Profiling", "Restriction Enzymes & DNA Ligation", "Cell Division: Cell Cycle & Mitosis", "Cell Theory & Cell Size (SA:V)", "Membrane Structure & Transport (Intro)", "Microscopy, Magnification & Measurement", "Origin of Cells & Endosymbiosis", "Prokaryotic vs Eukaryotic Ultrastructure", "Apoptosis Pathways", "Feedback Loops & Crosstalk", "Gene Regulation via Signalling", "Receptors: GPCRs & RTKs", "Second Messengers (cAMP, Ca2+)", "Signal Cascades & Amplification", "Cell Differentiation & Stem Cells", "Cleavage, Gastrulation & Germ Layers", "Gametogenesis & Fertilization"],
+  "current_subtopic": "Hox Genes & Pattern Formation",
   "questions_generated_for_current": 0,
   "target_per_subtopic": 25,
-  "last_updated": "2025-11-05T19:30:00Z",
-  "notes": "Completed 25 questions for Cleavage, Gastrulation & Germ Layers (row 27). Moved to row 28. Ready to transfer 50 total questions to master CSV."
+  "last_updated": "2025-11-05T19:45:00Z",
+  "notes": "Completed 25 questions for Gametogenesis & Fertilization (row 28). Moving to row 29."
 }
