@@ -1,10 +1,10 @@
 {
-  "current_row": 8,
+  "current_row": 10,
   "total_rows": 374,
-  "completed_subtopics": ["Action Potentials & Synaptic Integration", "Gas Exchange: Ventilation/Perfusion Matching", "Immunity: B/T Cells & Antibody Production", "Kidney Function & Osmoregulation (Nephron)", "Muscle Structure & Sliding Filament", "Reproductive Hormones & Menstrual Cycle"],
-  "current_subtopic": "CRISPR–Cas Systems (Qualitative)",
+  "completed_subtopics": ["Action Potentials & Synaptic Integration", "Gas Exchange: Ventilation/Perfusion Matching", "Immunity: B/T Cells & Antibody Production", "Kidney Function & Osmoregulation (Nephron)", "Muscle Structure & Sliding Filament", "Reproductive Hormones & Menstrual Cycle", "CRISPR–Cas Systems (Qualitative)", "Cloning Vectors & Recombinant DNA"],
+  "current_subtopic": "Culturing & Bioreactors (Basics)",
   "questions_generated_for_current": 0,
   "target_per_subtopic": 25,
-  "last_updated": "2025-11-05T14:15:00Z",
+  "last_updated": "2025-11-05T14:30:00Z",
   "notes": "Row 1 is header. Start generation from row 2."
 }
