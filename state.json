@@ -1,10 +1,10 @@
 {
-  "current_row": 32,
+  "current_row": 33,
   "total_rows": 374,
-  "completed_subtopics": ["Action Potentials & Synaptic Integration", "Gas Exchange: Ventilation/Perfusion Matching", "Immunity: B/T Cells & Antibody Production", "Kidney Function & Osmoregulation (Nephron)", "Muscle Structure & Sliding Filament", "Reproductive Hormones & Menstrual Cycle", "CRISPR–Cas Systems (Qualitative)", "Cloning Vectors & Recombinant DNA", "Culturing & Bioreactors (Basics)", "Ethical, Legal & Social Implications", "PCR/qPCR & DNA Profiling", "Restriction Enzymes & DNA Ligation", "Cell Division: Cell Cycle & Mitosis", "Cell Theory & Cell Size (SA:V)", "Membrane Structure & Transport (Intro)", "Microscopy, Magnification & Measurement", "Origin of Cells & Endosymbiosis", "Prokaryotic vs Eukaryotic Ultrastructure", "Apoptosis Pathways", "Feedback Loops & Crosstalk", "Gene Regulation via Signalling", "Receptors: GPCRs & RTKs", "Second Messengers (cAMP, Ca2+)", "Signal Cascades & Amplification", "Cell Differentiation & Stem Cells", "Cleavage, Gastrulation & Germ Layers", "Gametogenesis & Fertilization", "Hox Genes & Pattern Formation", "Morphogens & Gradients", "Organogenesis (Overview)"],
-  "current_subtopic": "Climate Change: Evidence & Impacts (Intro)",
+  "completed_subtopics": ["Action Potentials & Synaptic Integration", "Gas Exchange: Ventilation/Perfusion Matching", "Immunity: B/T Cells & Antibody Production", "Kidney Function & Osmoregulation (Nephron)", "Muscle Structure & Sliding Filament", "Reproductive Hormones & Menstrual Cycle", "CRISPR–Cas Systems (Qualitative)", "Cloning Vectors & Recombinant DNA", "Culturing & Bioreactors (Basics)", "Ethical, Legal & Social Implications", "PCR/qPCR & DNA Profiling", "Restriction Enzymes & DNA Ligation", "Cell Division: Cell Cycle & Mitosis", "Cell Theory & Cell Size (SA:V)", "Membrane Structure & Transport (Intro)", "Microscopy, Magnification & Measurement", "Origin of Cells & Endosymbiosis", "Prokaryotic vs Eukaryotic Ultrastructure", "Apoptosis Pathways", "Feedback Loops & Crosstalk", "Gene Regulation via Signalling", "Receptors: GPCRs & RTKs", "Second Messengers (cAMP, Ca2+)", "Signal Cascades & Amplification", "Cell Differentiation & Stem Cells", "Cleavage, Gastrulation & Germ Layers", "Gametogenesis & Fertilization", "Hox Genes & Pattern Formation", "Morphogens & Gradients", "Organogenesis (Overview)", "Climate Change: Evidence & Impacts (Intro)"],
+  "current_subtopic": "Energy Flow & Trophic Levels",
   "questions_generated_for_current": 0,
   "target_per_subtopic": 25,
-  "last_updated": "2025-11-05T20:00:00Z",
-  "notes": "Completed 25 questions for Organogenesis (Overview) (row 31). Moving to row 32. Total: 6 subtopics completed (150 questions)."
+  "last_updated": "2025-11-05T20:10:00Z",
+  "notes": "Completed 25 questions for Climate Change (row 32). Moving to row 33. Total: 7 subtopics in current session."
 }
