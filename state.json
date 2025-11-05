@@ -1,10 +1,10 @@
 {
-  "current_row": 21,
+  "current_row": 22,
   "total_rows": 374,
-  "completed_subtopics": ["Action Potentials & Synaptic Integration", "Gas Exchange: Ventilation/Perfusion Matching", "Immunity: B/T Cells & Antibody Production", "Kidney Function & Osmoregulation (Nephron)", "Muscle Structure & Sliding Filament", "Reproductive Hormones & Menstrual Cycle", "CRISPR–Cas Systems (Qualitative)", "Cloning Vectors & Recombinant DNA", "Culturing & Bioreactors (Basics)", "Ethical, Legal & Social Implications", "PCR/qPCR & DNA Profiling", "Restriction Enzymes & DNA Ligation", "Cell Division: Cell Cycle & Mitosis", "Cell Theory & Cell Size (SA:V)", "Membrane Structure & Transport (Intro)", "Microscopy, Magnification & Measurement", "Origin of Cells & Endosymbiosis", "Prokaryotic vs Eukaryotic Ultrastructure", "Apoptosis Pathways"],
-  "current_subtopic": "Feedback Loops & Crosstalk",
+  "completed_subtopics": ["Action Potentials & Synaptic Integration", "Gas Exchange: Ventilation/Perfusion Matching", "Immunity: B/T Cells & Antibody Production", "Kidney Function & Osmoregulation (Nephron)", "Muscle Structure & Sliding Filament", "Reproductive Hormones & Menstrual Cycle", "CRISPR–Cas Systems (Qualitative)", "Cloning Vectors & Recombinant DNA", "Culturing & Bioreactors (Basics)", "Ethical, Legal & Social Implications", "PCR/qPCR & DNA Profiling", "Restriction Enzymes & DNA Ligation", "Cell Division: Cell Cycle & Mitosis", "Cell Theory & Cell Size (SA:V)", "Membrane Structure & Transport (Intro)", "Microscopy, Magnification & Measurement", "Origin of Cells & Endosymbiosis", "Prokaryotic vs Eukaryotic Ultrastructure", "Apoptosis Pathways", "Feedback Loops & Crosstalk"],
+  "current_subtopic": "Gene Regulation via Signalling",
   "questions_generated_for_current": 0,
   "target_per_subtopic": 25,
-  "last_updated": "2025-11-05T17:20:00Z",
-  "notes": "Row 1 is header. Start generation from row 2."
+  "last_updated": "2025-11-05T17:30:00Z",
+  "notes": "Row 1 is header. Completed 4 subtopics this session: Origin of Cells, Prokaryotic vs Eukaryotic, Apoptosis, Feedback Loops."
 }
