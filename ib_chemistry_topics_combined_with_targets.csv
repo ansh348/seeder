@@ -1,0 +1,445 @@
+curriculum,grade,subject,topic,subtopic,target_total,target_mcq,target_fill,target_match,target_frq
+IB,Grade 12,Chemistry HL,Acids & Bases,Acid–Base Titrations & Curves (Intro),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Acids & Bases,Definitions: Arrhenius/Bronsted; Lewis (Intro),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Acids & Bases,Indicators & Buffer Concepts (Intro),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Acids & Bases,Neutralization & Salt Hydrolysis (Intro),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Acids & Bases,Strong vs Weak; Conductivity & pH,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Acids & Bases,"pH, pOH, Kw at 25°C",26,10,6,2,8
+IB,Grade 12,Chemistry HL,Atomic & Electronic Structure (HL),Effective Nuclear Charge & Shielding,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Atomic & Electronic Structure (HL),Mass Spectrometry: Isotopic Patterns,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Atomic & Electronic Structure (HL),Spectral Line Splitting (Qualitative),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Atomic & Electronic Structure (HL),Successive Ionization Energy Patterns,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Atomic & Electronic Structure (HL),Wave–Particle Duality in Atomic Models,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Atomic & Electronic Structure (HL),d-Block Electron Configurations (Ions),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Atomic Structure,"Electron Configuration (Aufbau, Pauli, Hund)",26,10,6,2,8
+IB,Grade 12,Chemistry HL,Atomic Structure,Emission Spectra & Energy Levels,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Atomic Structure,First Ionization Energy & Trends,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Atomic Structure,Nuclear Notation & Stability (Qualitative),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Atomic Structure,Relative Atomic Mass & Mass Spectrometry,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Atomic Structure,Subatomic Particles & Isotopes,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Bonding & Structure,"Covalent Bonding, Polarity & Bond Order",26,10,6,2,8
+IB,Grade 12,Chemistry HL,Bonding & Structure,"Intermolecular Forces (LDF, Dipole, H-bond)",26,10,6,2,8
+IB,Grade 12,Chemistry HL,Bonding & Structure,Ionic Bonding & Lattice (Qualitative),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Bonding & Structure,"Lewis Structures, Octet Exceptions, Resonance",26,10,6,2,8
+IB,Grade 12,Chemistry HL,Bonding & Structure,Metallic Bonding & Properties,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Bonding & Structure,VSEPR Shapes & Molecular Geometry,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Bonding & Structure (HL),Delocalization & Resonance (Benzene/Ozone),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Bonding & Structure (HL),Formal Charge & Stability,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Bonding & Structure (HL),"Hybridization (sp, sp2, sp3)",26,10,6,2,8
+IB,Grade 12,Chemistry HL,Bonding & Structure (HL),Intermolecular Forces & Polarizability,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Bonding & Structure (HL),Lattice Enthalpy (Intro to Born–Haber),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Bonding & Structure (HL),Molecular Orbital Concepts (Qualitative),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Chemical Kinetics,Catalysts & Surface Area,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Chemical Kinetics,Collision Theory & Maxwell–Boltzmann (Qual.),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Chemical Kinetics,Concentration & Temperature Effects,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Chemical Kinetics,Elementary Steps (Qualitative),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Chemical Kinetics,Rate Graphs & Initial Rate (Intro),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Chemical Kinetics,Rate of Reaction & Measurement,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Chemical Kinetics (HL),Arrhenius Equation & Activation Energy,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Chemical Kinetics (HL),Catalysis: Homo/Heterogeneous,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Chemical Kinetics (HL),Initial Rates & Clock Reactions,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Chemical Kinetics (HL),Integrated Rate Laws (0/1st/2nd Order),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Chemical Kinetics (HL),Rate Laws & Orders of Reaction,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Chemical Kinetics (HL),Reaction Mechanisms & RDS,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Energetics/Thermochemistry,Average Bond Enthalpies,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Energetics/Thermochemistry,Calorimetry & q = mcΔT,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Energetics/Thermochemistry,Endothermic vs Exothermic Profiles,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Energetics/Thermochemistry,Enthalpy Changes & Thermochemical Equations,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Energetics/Thermochemistry,Enthalpy of Solution & Hydration (Intro),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Energetics/Thermochemistry,Hess’s Law & Enthalpy Cycles (Intro),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Energetics/Thermochemistry (HL),Enthalpy of Solution & Hydration (Quant.),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Energetics/Thermochemistry (HL),Entropy (S) & Disorder,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Energetics/Thermochemistry (HL),Fuel Cells & Energy Density Comparisons,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Energetics/Thermochemistry (HL),Gibbs Free Energy ΔG = ΔH − TΔS,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Energetics/Thermochemistry (HL),Lattice Enthalpy & Born–Haber Cycles,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Energetics/Thermochemistry (HL),Temperature Dependence of Spontaneity,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Equilibrium,Dynamic Equilibrium Features,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Equilibrium,Equilibrium Constant Kc (Expressions/Units),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Equilibrium,ICE Tables & Calculations,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Equilibrium,Industrial Equilibria (Haber/Contact),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Equilibrium,Le Châtelier’s Principle (Qual/Quant),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Equilibrium,Reaction Quotient Q,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Equilibrium & Acids/Bases (HL),Buffer Solutions & Henderson–Hasselbalch,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Equilibrium & Acids/Bases (HL),Indicator Choice & Range Justification,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Equilibrium & Acids/Bases (HL),Kp for Gaseous Equilibria,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Equilibrium & Acids/Bases (HL),Solubility Product Ksp & Precipitation,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Equilibrium & Acids/Bases (HL),Strong–Weak Titration Curves (Detailed),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Equilibrium & Acids/Bases (HL),pKa/pKb and Ka/Kb Relationships,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Measurement & Data Processing,Designing Valid Experiments (Controls),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Measurement & Data Processing,Graphing: Best-Fit Lines & Gradients,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Measurement & Data Processing,Percentage Error; Accuracy vs Precision,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Measurement & Data Processing,Propagation of Uncertainty,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Measurement & Data Processing,Random vs Systematic Error; Calibration,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Measurement & Data Processing,Significant Figures & Uncertainty,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Organic Chemistry (Core),Alcohols: Oxidation & Esterification,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Organic Chemistry (Core),Alkanes: Properties & Combustion,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Organic Chemistry (Core),Alkenes: Addition & Polymerization,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Organic Chemistry (Core),Halogenoalkanes: Substitution (Intro),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Organic Chemistry (Core),Homologous Series & Functional Groups,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Organic Chemistry (Core),Isomerism: Structural & Geometric (E/Z Intro),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Organic Chemistry (HL),Aromatic: Electrophilic Substitution (Nitration),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Organic Chemistry (HL),Carbonyls: Aldehydes/Ketones (Additions),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Organic Chemistry (HL),Carboxylic Acids & Derivatives (Esters/Amides),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Organic Chemistry (HL),Halogenoalkanes: SN1 vs SN2,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Organic Chemistry (HL),Stereoisomerism: E/Z & Optical (R/S Concepts),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Organic Chemistry (HL),Synthetic Routes & Retrosynthesis,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Periodicity,Group 1 Reactivity Trends,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Periodicity,Group 17 Reactivity & Displacement,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Periodicity,Metallic/Nonmetallic Character & Oxides,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Periodicity,Period 3 Oxides: Acid–Base Character,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Periodicity,Transition Trend Overview (Intro),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Periodicity,"Trends: Atomic Radius, IE, Electronegativity",26,10,6,2,8
+IB,Grade 12,Chemistry HL,Redox & Electrochemistry (HL),Corrosion Mechanisms & Prevention,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Redox & Electrochemistry (HL),"Electrolysis: Quantitative (m, Q, n, F)",26,10,6,2,8
+IB,Grade 12,Chemistry HL,Redox & Electrochemistry (HL),Ligand Effects on Electrode Potentials,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Redox & Electrochemistry (HL),Nernst Equation (Qualitative Treatment),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Redox & Electrochemistry (HL),Rechargeable Batteries & Fuel Cells,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Redox & Electrochemistry (HL),Standard Potentials & Cell EMF Calculations,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Redox Processes,Applications: Corrosion & Electroplating,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Redox Processes,Balancing Redox (Half-Equations),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Redox Processes,Electrochemical Cells & EMF (Basics),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Redox Processes,Electrolysis & Faraday’s Laws (Intro),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Redox Processes,Oxidation States & Rules,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Redox Processes,Standard Electrode Potentials (Intro),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Spectroscopic Techniques (HL),13C NMR: Chemical Shifts,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Spectroscopic Techniques (HL),"1H NMR: Shift, Splitting, Integration",26,10,6,2,8
+IB,Grade 12,Chemistry HL,Spectroscopic Techniques (HL),"Combining IR, MS, NMR for ID",26,10,6,2,8
+IB,Grade 12,Chemistry HL,Spectroscopic Techniques (HL),IR Spectroscopy: Functional Groups,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Spectroscopic Techniques (HL),Mass Spectrometry: Fragmentation,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Spectroscopic Techniques (HL),UV–Vis & Beer–Lambert (Quant.),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Stoichiometric Relationships,Acid–Base Titration Calculations (Intro),26,10,6,2,8
+IB,Grade 12,Chemistry HL,Stoichiometric Relationships,Concentration (mol dm^-3) & Dilution,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Stoichiometric Relationships,Empirical vs Molecular Formula,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Stoichiometric Relationships,Limiting Reactant & Percent Yield,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Stoichiometric Relationships,Molar Volume of Gas & Avogadro’s Law,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Stoichiometric Relationships,Mole Concept & Avogadro Constant,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Transition Metals (HL),Colors & Spectrochemical Series,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Transition Metals (HL),Complex Ions & Coordination Number,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Transition Metals (HL),Crystal Field Theory & d–d Transitions,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Transition Metals (HL),Ligands: Mono/Bidentate & Chelation,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Transition Metals (HL),Magnetic Properties & Catalysis,26,10,6,2,8
+IB,Grade 12,Chemistry HL,Transition Metals (HL),d-Block: Variable Oxidation States,26,10,6,2,8
+IB,Grade 12,Chemistry SL,Acids & Bases,Acid–Base Titrations & Curves (Intro),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Acids & Bases,Definitions: Arrhenius/Bronsted; Lewis (Intro),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Acids & Bases,Indicators & Buffer Concepts (Intro),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Acids & Bases,Neutralization & Salt Hydrolysis (Intro),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Acids & Bases,Strong vs Weak; Conductivity & pH,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Acids & Bases,"pH, pOH, Kw at 25°C",20,8,4,2,6
+IB,Grade 12,Chemistry SL,Atomic Structure,"Electron Configuration (Aufbau, Pauli, Hund)",20,8,4,2,6
+IB,Grade 12,Chemistry SL,Atomic Structure,Emission Spectra & Energy Levels,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Atomic Structure,First Ionization Energy & Trends,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Atomic Structure,Nuclear Notation & Stability (Qualitative),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Atomic Structure,Relative Atomic Mass & Mass Spectrometry,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Atomic Structure,Subatomic Particles & Isotopes,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Bonding & Structure,"Covalent Bonding, Polarity & Bond Order",20,8,4,2,6
+IB,Grade 12,Chemistry SL,Bonding & Structure,"Intermolecular Forces (LDF, Dipole, H-bond)",20,8,4,2,6
+IB,Grade 12,Chemistry SL,Bonding & Structure,Ionic Bonding & Lattice (Qualitative),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Bonding & Structure,"Lewis Structures, Octet Exceptions, Resonance",20,8,4,2,6
+IB,Grade 12,Chemistry SL,Bonding & Structure,Metallic Bonding & Properties,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Bonding & Structure,VSEPR Shapes & Molecular Geometry,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Chemical Kinetics,Catalysts & Surface Area,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Chemical Kinetics,Collision Theory & Maxwell–Boltzmann (Qual.),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Chemical Kinetics,Concentration & Temperature Effects,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Chemical Kinetics,Elementary Steps (Qualitative),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Chemical Kinetics,Rate Graphs & Initial Rate (Intro),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Chemical Kinetics,Rate of Reaction & Measurement,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Energetics/Thermochemistry,Average Bond Enthalpies,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Energetics/Thermochemistry,Calorimetry & q = mcΔT,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Energetics/Thermochemistry,Endothermic vs Exothermic Profiles,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Energetics/Thermochemistry,Enthalpy Changes & Thermochemical Equations,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Energetics/Thermochemistry,Enthalpy of Solution & Hydration (Intro),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Energetics/Thermochemistry,Hess’s Law & Enthalpy Cycles (Intro),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Equilibrium,Dynamic Equilibrium Features,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Equilibrium,Equilibrium Constant Kc (Expressions/Units),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Equilibrium,ICE Tables & Calculations,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Equilibrium,Industrial Equilibria (Haber/Contact),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Equilibrium,Le Châtelier’s Principle (Qual/Quant),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Equilibrium,Reaction Quotient Q,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Measurement & Data Processing,Designing Valid Experiments (Controls),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Measurement & Data Processing,Graphing: Best-Fit Lines & Gradients,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Measurement & Data Processing,Percentage Error; Accuracy vs Precision,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Measurement & Data Processing,Propagation of Uncertainty,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Measurement & Data Processing,Random vs Systematic Error; Calibration,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Measurement & Data Processing,Significant Figures & Uncertainty,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Organic Chemistry (Core),Alcohols: Oxidation & Esterification,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Organic Chemistry (Core),Alkanes: Properties & Combustion,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Organic Chemistry (Core),Alkenes: Addition & Polymerization,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Organic Chemistry (Core),Halogenoalkanes: Substitution (Intro),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Organic Chemistry (Core),Homologous Series & Functional Groups,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Organic Chemistry (Core),Isomerism: Structural & Geometric (E/Z Intro),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Periodicity,Group 1 Reactivity Trends,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Periodicity,Group 17 Reactivity & Displacement,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Periodicity,Metallic/Nonmetallic Character & Oxides,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Periodicity,Period 3 Oxides: Acid–Base Character,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Periodicity,Transition Trend Overview (Intro),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Periodicity,"Trends: Atomic Radius, IE, Electronegativity",20,8,4,2,6
+IB,Grade 12,Chemistry SL,Redox Processes,Applications: Corrosion & Electroplating,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Redox Processes,Balancing Redox (Half-Equations),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Redox Processes,Electrochemical Cells & EMF (Basics),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Redox Processes,Electrolysis & Faraday’s Laws (Intro),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Redox Processes,Oxidation States & Rules,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Redox Processes,Standard Electrode Potentials (Intro),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Stoichiometric Relationships,Acid–Base Titration Calculations (Intro),20,8,4,2,6
+IB,Grade 12,Chemistry SL,Stoichiometric Relationships,Concentration (mol dm^-3) & Dilution,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Stoichiometric Relationships,Empirical vs Molecular Formula,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Stoichiometric Relationships,Limiting Reactant & Percent Yield,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Stoichiometric Relationships,Molar Volume of Gas & Avogadro’s Law,20,8,4,2,6
+IB,Grade 12,Chemistry SL,Stoichiometric Relationships,Mole Concept & Avogadro Constant,20,8,4,2,6
+IB,Grade 11,Chemistry HL,Acids & Bases,Acid–Base Titrations & Curves (Intro),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Acids & Bases,Definitions: Arrhenius/Bronsted; Lewis (Intro),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Acids & Bases,Indicators & Buffer Concepts (Intro),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Acids & Bases,Neutralization & Salt Hydrolysis (Intro),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Acids & Bases,Strong vs Weak; Conductivity & pH,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Acids & Bases,"pH, pOH, Kw at 25°C",26,10,6,2,8
+IB,Grade 11,Chemistry HL,Atomic Structure,"Electron Configuration (Aufbau, Pauli, Hund)",26,10,6,2,8
+IB,Grade 11,Chemistry HL,Atomic Structure,Emission Spectra & Energy Levels,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Atomic Structure,First Ionization Energy & Trends,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Atomic Structure,Nuclear Notation & Stability (Qualitative),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Atomic Structure,Relative Atomic Mass & Mass Spectrometry,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Atomic Structure,Subatomic Particles & Isotopes,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Bonding & Structure,"Covalent Bonding, Polarity & Bond Order",26,10,6,2,8
+IB,Grade 11,Chemistry HL,Bonding & Structure,"Intermolecular Forces (LDF, Dipole, H-bond)",26,10,6,2,8
+IB,Grade 11,Chemistry HL,Bonding & Structure,Ionic Bonding & Lattice (Qualitative),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Bonding & Structure,"Lewis Structures, Octet Exceptions, Resonance",26,10,6,2,8
+IB,Grade 11,Chemistry HL,Bonding & Structure,Metallic Bonding & Properties,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Bonding & Structure,VSEPR Shapes & Molecular Geometry,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Chemical Kinetics,Catalysts & Surface Area,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Chemical Kinetics,Collision Theory & Maxwell–Boltzmann (Qual.),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Chemical Kinetics,Concentration & Temperature Effects,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Chemical Kinetics,Elementary Steps (Qualitative),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Chemical Kinetics,Rate Graphs & Initial Rate (Intro),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Chemical Kinetics,Rate of Reaction & Measurement,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Energetics/Thermochemistry,Average Bond Enthalpies,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Energetics/Thermochemistry,Calorimetry & q = mcΔT,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Energetics/Thermochemistry,Endothermic vs Exothermic Profiles,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Energetics/Thermochemistry,Enthalpy Changes & Thermochemical Equations,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Energetics/Thermochemistry,Enthalpy of Solution & Hydration (Intro),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Energetics/Thermochemistry,Hess’s Law & Enthalpy Cycles (Intro),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Equilibrium,Dynamic Equilibrium Features,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Equilibrium,Equilibrium Constant Kc (Expressions/Units),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Equilibrium,ICE Tables & Calculations,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Equilibrium,Industrial Equilibria (Haber/Contact),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Equilibrium,Le Châtelier’s Principle (Qual/Quant),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Equilibrium,Reaction Quotient Q,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Measurement & Data Processing,Designing Valid Experiments (Controls),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Measurement & Data Processing,Graphing: Best-Fit Lines & Gradients,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Measurement & Data Processing,Percentage Error; Accuracy vs Precision,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Measurement & Data Processing,Propagation of Uncertainty,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Measurement & Data Processing,Random vs Systematic Error; Calibration,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Measurement & Data Processing,Significant Figures & Uncertainty,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Organic Chemistry (Core),Alcohols: Oxidation & Esterification,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Organic Chemistry (Core),Alkanes: Properties & Combustion,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Organic Chemistry (Core),Alkenes: Addition & Polymerization,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Organic Chemistry (Core),Halogenoalkanes: Substitution (Intro),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Organic Chemistry (Core),Homologous Series & Functional Groups,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Organic Chemistry (Core),Isomerism: Structural & Geometric (E/Z Intro),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Periodicity,Group 1 Reactivity Trends,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Periodicity,Group 17 Reactivity & Displacement,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Periodicity,Metallic/Nonmetallic Character & Oxides,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Periodicity,Period 3 Oxides: Acid–Base Character,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Periodicity,Transition Trend Overview (Intro),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Periodicity,"Trends: Atomic Radius, IE, Electronegativity",26,10,6,2,8
+IB,Grade 11,Chemistry HL,Redox Processes,Applications: Corrosion & Electroplating,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Redox Processes,Balancing Redox (Half-Equations),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Redox Processes,Electrochemical Cells & EMF (Basics),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Redox Processes,Electrolysis & Faraday’s Laws (Intro),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Redox Processes,Oxidation States & Rules,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Redox Processes,Standard Electrode Potentials (Intro),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Stoichiometric Relationships,Acid–Base Titration Calculations (Intro),26,10,6,2,8
+IB,Grade 11,Chemistry HL,Stoichiometric Relationships,Concentration (mol dm^-3) & Dilution,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Stoichiometric Relationships,Empirical vs Molecular Formula,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Stoichiometric Relationships,Limiting Reactant & Percent Yield,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Stoichiometric Relationships,Molar Volume of Gas & Avogadro’s Law,26,10,6,2,8
+IB,Grade 11,Chemistry HL,Stoichiometric Relationships,Mole Concept & Avogadro Constant,26,10,6,2,8
+IB,Grade 11,Chemistry SL,Acids & Bases,Acid–Base Titrations & Curves (Intro),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Acids & Bases,Definitions: Arrhenius/Bronsted; Lewis (Intro),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Acids & Bases,Indicators & Buffer Concepts (Intro),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Acids & Bases,Neutralization & Salt Hydrolysis (Intro),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Acids & Bases,Strong vs Weak; Conductivity & pH,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Acids & Bases,"pH, pOH, Kw at 25°C",20,8,4,2,6
+IB,Grade 11,Chemistry SL,Atomic Structure,"Electron Configuration (Aufbau, Pauli, Hund)",20,8,4,2,6
+IB,Grade 11,Chemistry SL,Atomic Structure,Emission Spectra & Energy Levels,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Atomic Structure,First Ionization Energy & Trends,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Atomic Structure,Nuclear Notation & Stability (Qualitative),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Atomic Structure,Relative Atomic Mass & Mass Spectrometry,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Atomic Structure,Subatomic Particles & Isotopes,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Bonding & Structure,"Covalent Bonding, Polarity & Bond Order",20,8,4,2,6
+IB,Grade 11,Chemistry SL,Bonding & Structure,"Intermolecular Forces (LDF, Dipole, H-bond)",20,8,4,2,6
+IB,Grade 11,Chemistry SL,Bonding & Structure,Ionic Bonding & Lattice (Qualitative),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Bonding & Structure,"Lewis Structures, Octet Exceptions, Resonance",20,8,4,2,6
+IB,Grade 11,Chemistry SL,Bonding & Structure,Metallic Bonding & Properties,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Bonding & Structure,VSEPR Shapes & Molecular Geometry,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Chemical Kinetics,Catalysts & Surface Area,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Chemical Kinetics,Collision Theory & Maxwell–Boltzmann (Qual.),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Chemical Kinetics,Concentration & Temperature Effects,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Chemical Kinetics,Elementary Steps (Qualitative),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Chemical Kinetics,Rate Graphs & Initial Rate (Intro),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Chemical Kinetics,Rate of Reaction & Measurement,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Energetics/Thermochemistry,Average Bond Enthalpies,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Energetics/Thermochemistry,Calorimetry & q = mcΔT,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Energetics/Thermochemistry,Endothermic vs Exothermic Profiles,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Energetics/Thermochemistry,Enthalpy Changes & Thermochemical Equations,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Energetics/Thermochemistry,Enthalpy of Solution & Hydration (Intro),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Energetics/Thermochemistry,Hess’s Law & Enthalpy Cycles (Intro),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Equilibrium,Dynamic Equilibrium Features,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Equilibrium,Equilibrium Constant Kc (Expressions/Units),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Equilibrium,ICE Tables & Calculations,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Equilibrium,Industrial Equilibria (Haber/Contact),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Equilibrium,Le Châtelier’s Principle (Qual/Quant),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Equilibrium,Reaction Quotient Q,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Measurement & Data Processing,Designing Valid Experiments (Controls),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Measurement & Data Processing,Graphing: Best-Fit Lines & Gradients,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Measurement & Data Processing,Percentage Error; Accuracy vs Precision,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Measurement & Data Processing,Propagation of Uncertainty,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Measurement & Data Processing,Random vs Systematic Error; Calibration,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Measurement & Data Processing,Significant Figures & Uncertainty,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Organic Chemistry (Core),Alcohols: Oxidation & Esterification,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Organic Chemistry (Core),Alkanes: Properties & Combustion,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Organic Chemistry (Core),Alkenes: Addition & Polymerization,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Organic Chemistry (Core),Halogenoalkanes: Substitution (Intro),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Organic Chemistry (Core),Homologous Series & Functional Groups,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Organic Chemistry (Core),Isomerism: Structural & Geometric (E/Z Intro),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Periodicity,Group 1 Reactivity Trends,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Periodicity,Group 17 Reactivity & Displacement,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Periodicity,Metallic/Nonmetallic Character & Oxides,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Periodicity,Period 3 Oxides: Acid–Base Character,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Periodicity,Transition Trend Overview (Intro),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Periodicity,"Trends: Atomic Radius, IE, Electronegativity",20,8,4,2,6
+IB,Grade 11,Chemistry SL,Redox Processes,Applications: Corrosion & Electroplating,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Redox Processes,Balancing Redox (Half-Equations),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Redox Processes,Electrochemical Cells & EMF (Basics),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Redox Processes,Electrolysis & Faraday’s Laws (Intro),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Redox Processes,Oxidation States & Rules,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Redox Processes,Standard Electrode Potentials (Intro),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Stoichiometric Relationships,Acid–Base Titration Calculations (Intro),20,8,4,2,6
+IB,Grade 11,Chemistry SL,Stoichiometric Relationships,Concentration (mol dm^-3) & Dilution,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Stoichiometric Relationships,Empirical vs Molecular Formula,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Stoichiometric Relationships,Limiting Reactant & Percent Yield,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Stoichiometric Relationships,Molar Volume of Gas & Avogadro’s Law,20,8,4,2,6
+IB,Grade 11,Chemistry SL,Stoichiometric Relationships,Mole Concept & Avogadro Constant,20,8,4,2,6
+IB,Grade 10,Chemistry MYP,"Acids, Bases & Salts",Everyday Acids/Alkalis & Safety,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,"Acids, Bases & Salts",Neutralization Reactions,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,"Acids, Bases & Salts",Preparing Salts (Simple Methods),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,"Acids, Bases & Salts",Properties of Acids & Bases,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,"Acids, Bases & Salts",Solubility Rules (Intro),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,"Acids, Bases & Salts",pH Scale & Indicators,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Atomic Structure & Isotopes,Electron Shells/Energy Levels (Basic),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Atomic Structure & Isotopes,Historical Models: Dalton → Bohr (Overview),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Atomic Structure & Isotopes,Ions: Cations vs Anions,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Atomic Structure & Isotopes,Isotopes & Relative Atomic Mass,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Atomic Structure & Isotopes,Nuclear Notation & Nuclide Symbols,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Atomic Structure & Isotopes,"Protons, Neutrons, Electrons",18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Chemical Bonding & Structure,Covalent Bonding & Lewis Structures (Basic),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Chemical Bonding & Structure,Intermolecular Forces (LDF/Dipole/H-bond Basics),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Chemical Bonding & Structure,Ionic Bonding & Lattices (Intro),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Chemical Bonding & Structure,Metallic Bonding & Properties,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Chemical Bonding & Structure,Molecular Shape (Simple VSEPR Ideas),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Chemical Bonding & Structure,Polarity & Electronegativity (Intro),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Energetics (Thermochemistry Basics),Bond Energy Concept (Qualitative),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Energetics (Thermochemistry Basics),Energy Profile Diagrams (Qualitative),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Energetics (Thermochemistry Basics),"Enthalpy Change (ΔH, Sign Convention)",18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Energetics (Thermochemistry Basics),"Everyday Applications (Hand Warmers, Packs)",18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Energetics (Thermochemistry Basics),Exothermic vs Endothermic Processes,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Energetics (Thermochemistry Basics),"Simple Calorimetry (q ≈ mcΔT, Concept)",18,7,4,2,5
+IB,Grade 10,Chemistry MYP,"Formulas, Equations & Stoichiometry",Balancing Chemical Equations,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,"Formulas, Equations & Stoichiometry",Limiting Reactant (Conceptual),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,"Formulas, Equations & Stoichiometry",Mole Concept & Molar Mass (Intro),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,"Formulas, Equations & Stoichiometry",Naming & Writing Chemical Formulae,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,"Formulas, Equations & Stoichiometry",Percent Composition by Mass,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,"Formulas, Equations & Stoichiometry",Word vs Symbol Equations,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Introductory Organic Chemistry,Addition Reactions of Alkenes (Concept),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Introductory Organic Chemistry,Combustion & Incomplete Combustion,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Introductory Organic Chemistry,Crude Oil & Fractional Distillation,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Introductory Organic Chemistry,"Fuels & Environmental Impact (CO2, NOx)",18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Introductory Organic Chemistry,Hydrocarbons: Alkanes vs Alkenes,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Introductory Organic Chemistry,Polymers: Addition Polymerization,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Measurement & Scientific Skills,"Data Tables, Graphing & Best-Fit Lines",18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Measurement & Scientific Skills,Experimental Variables & Controls,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Measurement & Scientific Skills,"Precision, Accuracy & Uncertainty",18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Measurement & Scientific Skills,Risk Assessment & Lab Safety Symbols,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Measurement & Scientific Skills,SI Units & Prefixes,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Measurement & Scientific Skills,Significant Figures & Rounding,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Periodic Table & Periodicity,Atomic Radius & Reactivity (Intro),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Periodic Table & Periodicity,"Block Overview (s, p) — Conceptual",18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Periodic Table & Periodicity,Group 1 & 17 Trends (Qualitative),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Periodic Table & Periodicity,"Groups, Periods & Classifications",18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Periodic Table & Periodicity,"Metals, Nonmetals & Metalloids",18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Periodic Table & Periodicity,Valency & Common Ion Charges,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Rates of Reaction (Intro),Collision Theory (Concept),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Rates of Reaction (Intro),Concentration & Temperature Effects,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Rates of Reaction (Intro),Designing Fair Rate Experiments,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Rates of Reaction (Intro),"Measuring Rate (Gas, Mass, Time)",18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Rates of Reaction (Intro),Rate Graphs (Qualitative),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Rates of Reaction (Intro),Surface Area & Catalysts,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Redox & Electrolysis (Intro),Cells/Batteries (Very Introductory),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Redox & Electrolysis (Intro),Corrosion & Prevention (Basics),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Redox & Electrolysis (Intro),Electroplating (Concept),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Redox & Electrolysis (Intro),Oxidation vs Reduction (OIL RIG),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Redox & Electrolysis (Intro),Reactivity Series & Displacement,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,Redox & Electrolysis (Intro),Simple Electrolysis of Aqueous Solutions,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,States of Matter & Separation,Changes of State & Heating/Cooling Curves,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,States of Matter & Separation,Diffusion & Gas Behavior (Intro),18,7,4,2,5
+IB,Grade 10,Chemistry MYP,States of Matter & Separation,"Filtration, Distillation & Evaporation",18,7,4,2,5
+IB,Grade 10,Chemistry MYP,States of Matter & Separation,Paper Chromatography Basics,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,States of Matter & Separation,Particle Model & States of Matter,18,7,4,2,5
+IB,Grade 10,Chemistry MYP,States of Matter & Separation,Pure Substances vs Mixtures,18,7,4,2,5
+IB,Grade 9,Chemistry MYP,"Acids, Bases & Indicators (Intro)",Everyday Acids/Alkalis,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,"Acids, Bases & Indicators (Intro)","Litmus, Universal Indicator, pH Paper",16,6,4,2,4
+IB,Grade 9,Chemistry MYP,"Acids, Bases & Indicators (Intro)",Neutralization in Daily Life,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,"Acids, Bases & Indicators (Intro)",Safety with Acids & Alkalis,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,"Acids, Bases & Indicators (Intro)",Simple Titration Demonstration (Concept),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,"Acids, Bases & Indicators (Intro)",Strength vs Concentration (Concept),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Atomic Structure (Basics),Atomic Number & Mass Number,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Atomic Structure (Basics),"Electron Arrangement (2,8,8…)",16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Atomic Structure (Basics),Ions Formation (Simple),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Atomic Structure (Basics),Isotopes (Concept),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Atomic Structure (Basics),Periodic Table Layout (Overview),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Atomic Structure (Basics),Subatomic Particles & Relative Mass/Charge,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,"Elements, Compounds & Mixtures",Air Composition (Approximate),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,"Elements, Compounds & Mixtures",Alloys & Everyday Examples,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,"Elements, Compounds & Mixtures",Compounds & Chemical Formulae (Intro),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,"Elements, Compounds & Mixtures",Elements & Symbols,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,"Elements, Compounds & Mixtures",Mixtures & Separation Methods,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,"Elements, Compounds & Mixtures",Pure vs Impure Substances,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Energy in Reactions (Intro),Activation Energy (Idea),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Energy in Reactions (Intro),Catalysts (Everyday Examples),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Energy in Reactions (Intro),Cooling/Heating Packs,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Energy in Reactions (Intro),Energy Changes in Combustion,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Energy in Reactions (Intro),Energy Diagrams (Very Qualitative),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Energy in Reactions (Intro),Exothermic vs Endothermic (Concept),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Environmental Chemistry (Intro),Acid Rain: Causes & Effects,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Environmental Chemistry (Intro),Air Pollution: SOx/NOx/Particulates,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Environmental Chemistry (Intro),Everyday Choices & Sustainability,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Environmental Chemistry (Intro),Greenhouse Gases & Climate (Concept),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Environmental Chemistry (Intro),Recycling & Materials Life Cycle,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Environmental Chemistry (Intro),Water Treatment (Basic Stages),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Lab Safety & Scientific Practices,Graph Axes & Simple Trends,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Lab Safety & Scientific Practices,Hazard Symbols & MSDS (Intro),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Lab Safety & Scientific Practices,Lab Rules & PPE,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Lab Safety & Scientific Practices,Measuring Tools & Zero Error (Basic),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Lab Safety & Scientific Practices,Recording Observations & Tables,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Lab Safety & Scientific Practices,"Variables, Fair Tests & Repeats",16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Particle Model of Matter,Changes of State (Melting/Boiling),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Particle Model of Matter,Density & Simple Calculations,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Particle Model of Matter,Diffusion & Brownian Motion (Concept),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Particle Model of Matter,Kinetic Theory (Qualitative),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Particle Model of Matter,"Particles in Solids, Liquids, Gases",16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Particle Model of Matter,Temperature vs Heat (Basic),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Periodic Table (Basics),Group 1 Characteristics (Intro),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Periodic Table (Basics),Group 17 Characteristics (Intro),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Periodic Table (Basics),Group 18 (Noble Gases) Uses,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Periodic Table (Basics),Groups & Periods,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Periodic Table (Basics),Metals vs Nonmetals,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Periodic Table (Basics),Periodic Trends (Very Qualitative),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Physical vs Chemical Changes,Combustion (Basic),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Physical vs Chemical Changes,Conservation of Mass (Concept),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Physical vs Chemical Changes,Evidence of Chemical Change,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Physical vs Chemical Changes,Simple Precipitation Reactions,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Physical vs Chemical Changes,Thermal Decomposition (Examples),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Physical vs Chemical Changes,Word Equations (Intro),16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Simple Chemical Reactions,Acid + Carbonate → Salt + CO2 + H2O,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Simple Chemical Reactions,Acid + Metal → Salt + Hydrogen,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Simple Chemical Reactions,Combustion of Fuels,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Simple Chemical Reactions,Metal Displacement Reactions,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Simple Chemical Reactions,Neutralization: Acid + Base → Salt + H2O,16,6,4,2,4
+IB,Grade 9,Chemistry MYP,Simple Chemical Reactions,Rusting & Prevention (Intro),16,6,4,2,4

@@ -1,0 +1,373 @@
+curriculum,grade,subject,topic,subtopic,target_total,target_mcq,target_fill,target_match,target_frq
+IB,Grade 12,Biology HL,Animal Physiology (HL),Action Potentials & Synaptic Integration,26,10,6,2,8
+IB,Grade 12,Biology HL,Animal Physiology (HL),Gas Exchange: Ventilation/Perfusion Matching,26,10,6,2,8
+IB,Grade 12,Biology HL,Animal Physiology (HL),Immunity: B/T Cells & Antibody Production,26,10,6,2,8
+IB,Grade 12,Biology HL,Animal Physiology (HL),Kidney Function & Osmoregulation (Nephron),26,10,6,2,8
+IB,Grade 12,Biology HL,Animal Physiology (HL),Muscle Structure & Sliding Filament,26,10,6,2,8
+IB,Grade 12,Biology HL,Animal Physiology (HL),Reproductive Hormones & Menstrual Cycle,26,10,6,2,8
+IB,Grade 12,Biology HL,Biotechnology (HL),CRISPR–Cas Systems (Qualitative),26,10,6,2,8
+IB,Grade 12,Biology HL,Biotechnology (HL),Cloning Vectors & Recombinant DNA,26,10,6,2,8
+IB,Grade 12,Biology HL,Biotechnology (HL),Culturing & Bioreactors (Basics),26,10,6,2,8
+IB,Grade 12,Biology HL,Biotechnology (HL),"Ethical, Legal & Social Implications",26,10,6,2,8
+IB,Grade 12,Biology HL,Biotechnology (HL),PCR/qPCR & DNA Profiling,26,10,6,2,8
+IB,Grade 12,Biology HL,Biotechnology (HL),Restriction Enzymes & DNA Ligation,26,10,6,2,8
+IB,Grade 12,Biology HL,Cell Biology,Cell Division: Cell Cycle & Mitosis,26,10,6,2,8
+IB,Grade 12,Biology HL,Cell Biology,Cell Theory & Cell Size (SA:V),26,10,6,2,8
+IB,Grade 12,Biology HL,Cell Biology,Membrane Structure & Transport (Intro),26,10,6,2,8
+IB,Grade 12,Biology HL,Cell Biology,"Microscopy, Magnification & Measurement",26,10,6,2,8
+IB,Grade 12,Biology HL,Cell Biology,Origin of Cells & Endosymbiosis,26,10,6,2,8
+IB,Grade 12,Biology HL,Cell Biology,Prokaryotic vs Eukaryotic Ultrastructure,26,10,6,2,8
+IB,Grade 12,Biology HL,Cell Communication & Signal Transduction (HL),Apoptosis Pathways,26,10,6,2,8
+IB,Grade 12,Biology HL,Cell Communication & Signal Transduction (HL),Feedback Loops & Crosstalk,26,10,6,2,8
+IB,Grade 12,Biology HL,Cell Communication & Signal Transduction (HL),Gene Regulation via Signalling,26,10,6,2,8
+IB,Grade 12,Biology HL,Cell Communication & Signal Transduction (HL),Receptors: GPCRs & RTKs,26,10,6,2,8
+IB,Grade 12,Biology HL,Cell Communication & Signal Transduction (HL),"Second Messengers (cAMP, Ca2+)",26,10,6,2,8
+IB,Grade 12,Biology HL,Cell Communication & Signal Transduction (HL),Signal Cascades & Amplification,26,10,6,2,8
+IB,Grade 12,Biology HL,Developmental Biology (HL),Cell Differentiation & Stem Cells,26,10,6,2,8
+IB,Grade 12,Biology HL,Developmental Biology (HL),"Cleavage, Gastrulation & Germ Layers",26,10,6,2,8
+IB,Grade 12,Biology HL,Developmental Biology (HL),Gametogenesis & Fertilization,26,10,6,2,8
+IB,Grade 12,Biology HL,Developmental Biology (HL),Hox Genes & Pattern Formation,26,10,6,2,8
+IB,Grade 12,Biology HL,Developmental Biology (HL),Morphogens & Gradients,26,10,6,2,8
+IB,Grade 12,Biology HL,Developmental Biology (HL),Organogenesis (Overview),26,10,6,2,8
+IB,Grade 12,Biology HL,Ecology,Climate Change: Evidence & Impacts (Intro),26,10,6,2,8
+IB,Grade 12,Biology HL,Ecology,Energy Flow & Trophic Levels,26,10,6,2,8
+IB,Grade 12,Biology HL,Ecology,Mesocosms & Experiments,26,10,6,2,8
+IB,Grade 12,Biology HL,Ecology,Nutrient Cycles: Carbon & Nitrogen,26,10,6,2,8
+IB,Grade 12,Biology HL,Ecology,Population Sampling & Niches,26,10,6,2,8
+IB,Grade 12,Biology HL,Ecology,"Species, Communities & Ecosystems",26,10,6,2,8
+IB,Grade 12,Biology HL,Ecology & Conservation (HL),Biodiversity Indices & Sampling,26,10,6,2,8
+IB,Grade 12,Biology HL,Ecology & Conservation (HL),Biogeochemical Cycles: Human Impact,26,10,6,2,8
+IB,Grade 12,Biology HL,Ecology & Conservation (HL),Carrying Capacity & Logistic Growth,26,10,6,2,8
+IB,Grade 12,Biology HL,Ecology & Conservation (HL),Community Interactions & Niches,26,10,6,2,8
+IB,Grade 12,Biology HL,Ecology & Conservation (HL),Conservation Strategies (In/Ex situ),26,10,6,2,8
+IB,Grade 12,Biology HL,Ecology & Conservation (HL),Eutrophication & Bioaccumulation,26,10,6,2,8
+IB,Grade 12,Biology HL,Evolution & Biodiversity,Classification & Cladistics,26,10,6,2,8
+IB,Grade 12,Biology HL,Evolution & Biodiversity,"Evidence for Evolution (Fossils, Biogeography)",26,10,6,2,8
+IB,Grade 12,Biology HL,Evolution & Biodiversity,Genetic Variation: Mutation & Meiosis,26,10,6,2,8
+IB,Grade 12,Biology HL,Evolution & Biodiversity,Natural Selection & Adaptation,26,10,6,2,8
+IB,Grade 12,Biology HL,Evolution & Biodiversity,Phylogenetic Trees (Reading & Inference),26,10,6,2,8
+IB,Grade 12,Biology HL,Evolution & Biodiversity,Speciation: Isolation & Barriers,26,10,6,2,8
+IB,Grade 12,Biology HL,Experimental Design & Data Analysis,"Data Tables, Graphs & Best-Fit Lines",26,10,6,2,8
+IB,Grade 12,Biology HL,Experimental Design & Data Analysis,Measurement Error & Uncertainty,26,10,6,2,8
+IB,Grade 12,Biology HL,Experimental Design & Data Analysis,"Sampling, Bias & Ethics",26,10,6,2,8
+IB,Grade 12,Biology HL,Experimental Design & Data Analysis,Scientific Communication & Evaluation,26,10,6,2,8
+IB,Grade 12,Biology HL,Experimental Design & Data Analysis,"Statistical Ideas (Mean/SD, Error Bars)",26,10,6,2,8
+IB,Grade 12,Biology HL,Experimental Design & Data Analysis,"Variables, Controls & Hypotheses",26,10,6,2,8
+IB,Grade 12,Biology HL,Genetics,"Chromosomes, Karyotyping & Non-disjunction",26,10,6,2,8
+IB,Grade 12,Biology HL,Genetics,Ethics of Genetics & GMOs (Intro),26,10,6,2,8
+IB,Grade 12,Biology HL,Genetics,"Gene Pools, Selection & Evolution (Intro)",26,10,6,2,8
+IB,Grade 12,Biology HL,Genetics,"Genes, Alleles & Loci; Mutations",26,10,6,2,8
+IB,Grade 12,Biology HL,Genetics,Inheritance Patterns (Monohybrid Basics),26,10,6,2,8
+IB,Grade 12,Biology HL,Genetics,Meiosis & Genetic Variation,26,10,6,2,8
+IB,Grade 12,Biology HL,Genetics & Evolution (HL),Hardy–Weinberg Equilibrium,26,10,6,2,8
+IB,Grade 12,Biology HL,Genetics & Evolution (HL),"Linkage, Recombination & Gene Mapping",26,10,6,2,8
+IB,Grade 12,Biology HL,Genetics & Evolution (HL),Molecular Evolution & Clocks,26,10,6,2,8
+IB,Grade 12,Biology HL,Genetics & Evolution (HL),Polygenic Inheritance & Continuous Variation,26,10,6,2,8
+IB,Grade 12,Biology HL,Genetics & Evolution (HL),Population Genetics & Selection,26,10,6,2,8
+IB,Grade 12,Biology HL,Genetics & Evolution (HL),Speciation Models & Rates,26,10,6,2,8
+IB,Grade 12,Biology HL,Genomics & Bioinformatics (HL),Comparative Genomics & Orthologs,26,10,6,2,8
+IB,Grade 12,Biology HL,Genomics & Bioinformatics (HL),Gene Annotation & Databases (NCBI/ENSEMBL),26,10,6,2,8
+IB,Grade 12,Biology HL,Genomics & Bioinformatics (HL),Genome Sequencing & Assembly,26,10,6,2,8
+IB,Grade 12,Biology HL,Genomics & Bioinformatics (HL),Phylogenomics & Tree Building,26,10,6,2,8
+IB,Grade 12,Biology HL,Genomics & Bioinformatics (HL),"SNPs, GWAS & Personalized Medicine",26,10,6,2,8
+IB,Grade 12,Biology HL,Genomics & Bioinformatics (HL),Transcriptomics & Proteomics (Intro),26,10,6,2,8
+IB,Grade 12,Biology HL,Human Health & Disease (HL),Antibiotics & Resistance Mechanisms,26,10,6,2,8
+IB,Grade 12,Biology HL,Human Health & Disease (HL),"Epidemiology Basics (R0, Outbreak Curves)",26,10,6,2,8
+IB,Grade 12,Biology HL,Human Health & Disease (HL),Innate vs Adaptive Immunity (Detail),26,10,6,2,8
+IB,Grade 12,Biology HL,Human Health & Disease (HL),Non-Communicable Diseases (Risk Factors),26,10,6,2,8
+IB,Grade 12,Biology HL,Human Health & Disease (HL),Pathogens & Transmission,26,10,6,2,8
+IB,Grade 12,Biology HL,Human Health & Disease (HL),Vaccination Strategies & Herd Immunity,26,10,6,2,8
+IB,Grade 12,Biology HL,Human Physiology,Circulation & Cardiac Cycle,26,10,6,2,8
+IB,Grade 12,Biology HL,Human Physiology,Digestion & Absorption,26,10,6,2,8
+IB,Grade 12,Biology HL,Human Physiology,Hormones & Homeostasis (Glucose/Osmoregulation),26,10,6,2,8
+IB,Grade 12,Biology HL,Human Physiology,Immunity: Antibodies & Vaccination (Intro),26,10,6,2,8
+IB,Grade 12,Biology HL,Human Physiology,Neurons & Synapses (Intro),26,10,6,2,8
+IB,Grade 12,Biology HL,Human Physiology,Ventilation & Gas Exchange,26,10,6,2,8
+IB,Grade 12,Biology HL,Membrane Structure & Transport (HL),Co-transport & Secondary Active Transport,26,10,6,2,8
+IB,Grade 12,Biology HL,Membrane Structure & Transport (HL),Endocytosis/Exocytosis & Vesicle Trafficking,26,10,6,2,8
+IB,Grade 12,Biology HL,Membrane Structure & Transport (HL),Membrane Fluidity & Composition,26,10,6,2,8
+IB,Grade 12,Biology HL,Membrane Structure & Transport (HL),Membrane Potential & Electrochem Gradients,26,10,6,2,8
+IB,Grade 12,Biology HL,Membrane Structure & Transport (HL),Receptor-Mediated Endocytosis,26,10,6,2,8
+IB,Grade 12,Biology HL,Membrane Structure & Transport (HL),Transporters vs Channels,26,10,6,2,8
+IB,Grade 12,Biology HL,"Metabolism, Respiration & Photosynthesis (HL)","Calvin Cycle, Rubisco & Regulation",26,10,6,2,8
+IB,Grade 12,Biology HL,"Metabolism, Respiration & Photosynthesis (HL)",Electron Transport Chain & Chemiosmosis,26,10,6,2,8
+IB,Grade 12,Biology HL,"Metabolism, Respiration & Photosynthesis (HL)","Glycolysis, Link Reaction & Krebs Cycle",26,10,6,2,8
+IB,Grade 12,Biology HL,"Metabolism, Respiration & Photosynthesis (HL)",Limiting Factors & Adaptations,26,10,6,2,8
+IB,Grade 12,Biology HL,"Metabolism, Respiration & Photosynthesis (HL)",Metabolic Pathways & Enzyme Inhibition,26,10,6,2,8
+IB,Grade 12,Biology HL,"Metabolism, Respiration & Photosynthesis (HL)",Photosystems I/II & Photophosphorylation,26,10,6,2,8
+IB,Grade 12,Biology HL,Molecular Biology,Biotech Basics: PCR & Gel Electrophoresis (Intro),26,10,6,2,8
+IB,Grade 12,Biology HL,Molecular Biology,"Carbohydrates, Lipids & Proteins",26,10,6,2,8
+IB,Grade 12,Biology HL,Molecular Biology,Central Dogma (Basic): Replication/Transcription/Translation,26,10,6,2,8
+IB,Grade 12,Biology HL,Molecular Biology,DNA vs RNA Structure,26,10,6,2,8
+IB,Grade 12,Biology HL,Molecular Biology,Enzymes: Mechanism & Factors,26,10,6,2,8
+IB,Grade 12,Biology HL,Molecular Biology,Water Properties & Biological Significance,26,10,6,2,8
+IB,Grade 12,Biology HL,Neurobiology & Behaviour (HL),Animal Communication & Orientation,26,10,6,2,8
+IB,Grade 12,Biology HL,Neurobiology & Behaviour (HL),Brain Imaging Techniques (fMRI/EEG),26,10,6,2,8
+IB,Grade 12,Biology HL,Neurobiology & Behaviour (HL),Neuronal Networks & Plasticity,26,10,6,2,8
+IB,Grade 12,Biology HL,Neurobiology & Behaviour (HL),"Reflexes, Learning & Memory (Intro)",26,10,6,2,8
+IB,Grade 12,Biology HL,Neurobiology & Behaviour (HL),Sensory Receptors & Phototransduction,26,10,6,2,8
+IB,Grade 12,Biology HL,Neurobiology & Behaviour (HL),Synaptic Transmission & Summation,26,10,6,2,8
+IB,Grade 12,Biology HL,Nucleic Acids (HL),DNA Replication Enzymes & Origins,26,10,6,2,8
+IB,Grade 12,Biology HL,Nucleic Acids (HL),DNA Supercoiling & Nucleosomes,26,10,6,2,8
+IB,Grade 12,Biology HL,Nucleic Acids (HL),Gene Expression Regulation (Epigenetics),26,10,6,2,8
+IB,Grade 12,Biology HL,Nucleic Acids (HL),Genetic Code & Wobble Hypothesis,26,10,6,2,8
+IB,Grade 12,Biology HL,Nucleic Acids (HL),Transcription & RNA Processing,26,10,6,2,8
+IB,Grade 12,Biology HL,Nucleic Acids (HL),Translation: Initiation to Termination,26,10,6,2,8
+IB,Grade 12,Biology HL,Plant Biology (HL),Meristems & Plant Growth,26,10,6,2,8
+IB,Grade 12,Biology HL,Plant Biology (HL),Phloem Translocation & Pressure-Flow,26,10,6,2,8
+IB,Grade 12,Biology HL,Plant Biology (HL),Reproduction of Flowering Plants,26,10,6,2,8
+IB,Grade 12,Biology HL,Plant Biology (HL),Stomatal Regulation & Gas Exchange,26,10,6,2,8
+IB,Grade 12,Biology HL,Plant Biology (HL),Tropisms & Auxin Signalling,26,10,6,2,8
+IB,Grade 12,Biology HL,Plant Biology (HL),Xylem Transport & Transpiration Pull,26,10,6,2,8
+IB,Grade 12,Biology SL,Cell Biology,Cell Division: Cell Cycle & Mitosis,20,8,4,2,6
+IB,Grade 12,Biology SL,Cell Biology,Cell Theory & Cell Size (SA:V),20,8,4,2,6
+IB,Grade 12,Biology SL,Cell Biology,Membrane Structure & Transport (Intro),20,8,4,2,6
+IB,Grade 12,Biology SL,Cell Biology,"Microscopy, Magnification & Measurement",20,8,4,2,6
+IB,Grade 12,Biology SL,Cell Biology,Origin of Cells & Endosymbiosis,20,8,4,2,6
+IB,Grade 12,Biology SL,Cell Biology,Prokaryotic vs Eukaryotic Ultrastructure,20,8,4,2,6
+IB,Grade 12,Biology SL,Ecology,Climate Change: Evidence & Impacts (Intro),20,8,4,2,6
+IB,Grade 12,Biology SL,Ecology,Energy Flow & Trophic Levels,20,8,4,2,6
+IB,Grade 12,Biology SL,Ecology,Mesocosms & Experiments,20,8,4,2,6
+IB,Grade 12,Biology SL,Ecology,Nutrient Cycles: Carbon & Nitrogen,20,8,4,2,6
+IB,Grade 12,Biology SL,Ecology,Population Sampling & Niches,20,8,4,2,6
+IB,Grade 12,Biology SL,Ecology,"Species, Communities & Ecosystems",20,8,4,2,6
+IB,Grade 12,Biology SL,Evolution & Biodiversity,Classification & Cladistics,20,8,4,2,6
+IB,Grade 12,Biology SL,Evolution & Biodiversity,"Evidence for Evolution (Fossils, Biogeography)",20,8,4,2,6
+IB,Grade 12,Biology SL,Evolution & Biodiversity,Genetic Variation: Mutation & Meiosis,20,8,4,2,6
+IB,Grade 12,Biology SL,Evolution & Biodiversity,Natural Selection & Adaptation,20,8,4,2,6
+IB,Grade 12,Biology SL,Evolution & Biodiversity,Phylogenetic Trees (Reading & Inference),20,8,4,2,6
+IB,Grade 12,Biology SL,Evolution & Biodiversity,Speciation: Isolation & Barriers,20,8,4,2,6
+IB,Grade 12,Biology SL,Experimental Design & Data Analysis,"Data Tables, Graphs & Best-Fit Lines",20,8,4,2,6
+IB,Grade 12,Biology SL,Experimental Design & Data Analysis,Measurement Error & Uncertainty,20,8,4,2,6
+IB,Grade 12,Biology SL,Experimental Design & Data Analysis,"Sampling, Bias & Ethics",20,8,4,2,6
+IB,Grade 12,Biology SL,Experimental Design & Data Analysis,Scientific Communication & Evaluation,20,8,4,2,6
+IB,Grade 12,Biology SL,Experimental Design & Data Analysis,"Statistical Ideas (Mean/SD, Error Bars)",20,8,4,2,6
+IB,Grade 12,Biology SL,Experimental Design & Data Analysis,"Variables, Controls & Hypotheses",20,8,4,2,6
+IB,Grade 12,Biology SL,Genetics,"Chromosomes, Karyotyping & Non-disjunction",20,8,4,2,6
+IB,Grade 12,Biology SL,Genetics,Ethics of Genetics & GMOs (Intro),20,8,4,2,6
+IB,Grade 12,Biology SL,Genetics,"Gene Pools, Selection & Evolution (Intro)",20,8,4,2,6
+IB,Grade 12,Biology SL,Genetics,"Genes, Alleles & Loci; Mutations",20,8,4,2,6
+IB,Grade 12,Biology SL,Genetics,Inheritance Patterns (Monohybrid Basics),20,8,4,2,6
+IB,Grade 12,Biology SL,Genetics,Meiosis & Genetic Variation,20,8,4,2,6
+IB,Grade 12,Biology SL,Human Physiology,Circulation & Cardiac Cycle,20,8,4,2,6
+IB,Grade 12,Biology SL,Human Physiology,Digestion & Absorption,20,8,4,2,6
+IB,Grade 12,Biology SL,Human Physiology,Hormones & Homeostasis (Glucose/Osmoregulation),20,8,4,2,6
+IB,Grade 12,Biology SL,Human Physiology,Immunity: Antibodies & Vaccination (Intro),20,8,4,2,6
+IB,Grade 12,Biology SL,Human Physiology,Neurons & Synapses (Intro),20,8,4,2,6
+IB,Grade 12,Biology SL,Human Physiology,Ventilation & Gas Exchange,20,8,4,2,6
+IB,Grade 12,Biology SL,Molecular Biology,Biotech Basics: PCR & Gel Electrophoresis (Intro),20,8,4,2,6
+IB,Grade 12,Biology SL,Molecular Biology,"Carbohydrates, Lipids & Proteins",20,8,4,2,6
+IB,Grade 12,Biology SL,Molecular Biology,Central Dogma (Basic): Replication/Transcription/Translation,20,8,4,2,6
+IB,Grade 12,Biology SL,Molecular Biology,DNA vs RNA Structure,20,8,4,2,6
+IB,Grade 12,Biology SL,Molecular Biology,Enzymes: Mechanism & Factors,20,8,4,2,6
+IB,Grade 12,Biology SL,Molecular Biology,Water Properties & Biological Significance,20,8,4,2,6
+IB,Grade 11,Biology HL,Cell Biology,Cell Division: Cell Cycle & Mitosis,26,10,6,2,8
+IB,Grade 11,Biology HL,Cell Biology,Cell Theory & Cell Size (SA:V),26,10,6,2,8
+IB,Grade 11,Biology HL,Cell Biology,Membrane Structure & Transport (Intro),26,10,6,2,8
+IB,Grade 11,Biology HL,Cell Biology,"Microscopy, Magnification & Measurement",26,10,6,2,8
+IB,Grade 11,Biology HL,Cell Biology,Origin of Cells & Endosymbiosis,26,10,6,2,8
+IB,Grade 11,Biology HL,Cell Biology,Prokaryotic vs Eukaryotic Ultrastructure,26,10,6,2,8
+IB,Grade 11,Biology HL,Ecology,Climate Change: Evidence & Impacts (Intro),26,10,6,2,8
+IB,Grade 11,Biology HL,Ecology,Energy Flow & Trophic Levels,26,10,6,2,8
+IB,Grade 11,Biology HL,Ecology,Mesocosms & Experiments,26,10,6,2,8
+IB,Grade 11,Biology HL,Ecology,Nutrient Cycles: Carbon & Nitrogen,26,10,6,2,8
+IB,Grade 11,Biology HL,Ecology,Population Sampling & Niches,26,10,6,2,8
+IB,Grade 11,Biology HL,Ecology,"Species, Communities & Ecosystems",26,10,6,2,8
+IB,Grade 11,Biology HL,Evolution & Biodiversity,Classification & Cladistics,26,10,6,2,8
+IB,Grade 11,Biology HL,Evolution & Biodiversity,"Evidence for Evolution (Fossils, Biogeography)",26,10,6,2,8
+IB,Grade 11,Biology HL,Evolution & Biodiversity,Genetic Variation: Mutation & Meiosis,26,10,6,2,8
+IB,Grade 11,Biology HL,Evolution & Biodiversity,Natural Selection & Adaptation,26,10,6,2,8
+IB,Grade 11,Biology HL,Evolution & Biodiversity,Phylogenetic Trees (Reading & Inference),26,10,6,2,8
+IB,Grade 11,Biology HL,Evolution & Biodiversity,Speciation: Isolation & Barriers,26,10,6,2,8
+IB,Grade 11,Biology HL,Experimental Design & Data Analysis,"Data Tables, Graphs & Best-Fit Lines",26,10,6,2,8
+IB,Grade 11,Biology HL,Experimental Design & Data Analysis,Measurement Error & Uncertainty,26,10,6,2,8
+IB,Grade 11,Biology HL,Experimental Design & Data Analysis,"Sampling, Bias & Ethics",26,10,6,2,8
+IB,Grade 11,Biology HL,Experimental Design & Data Analysis,Scientific Communication & Evaluation,26,10,6,2,8
+IB,Grade 11,Biology HL,Experimental Design & Data Analysis,"Statistical Ideas (Mean/SD, Error Bars)",26,10,6,2,8
+IB,Grade 11,Biology HL,Experimental Design & Data Analysis,"Variables, Controls & Hypotheses",26,10,6,2,8
+IB,Grade 11,Biology HL,Genetics,"Chromosomes, Karyotyping & Non-disjunction",26,10,6,2,8
+IB,Grade 11,Biology HL,Genetics,Ethics of Genetics & GMOs (Intro),26,10,6,2,8
+IB,Grade 11,Biology HL,Genetics,"Gene Pools, Selection & Evolution (Intro)",26,10,6,2,8
+IB,Grade 11,Biology HL,Genetics,"Genes, Alleles & Loci; Mutations",26,10,6,2,8
+IB,Grade 11,Biology HL,Genetics,Inheritance Patterns (Monohybrid Basics),26,10,6,2,8
+IB,Grade 11,Biology HL,Genetics,Meiosis & Genetic Variation,26,10,6,2,8
+IB,Grade 11,Biology HL,Human Physiology,Circulation & Cardiac Cycle,26,10,6,2,8
+IB,Grade 11,Biology HL,Human Physiology,Digestion & Absorption,26,10,6,2,8
+IB,Grade 11,Biology HL,Human Physiology,Hormones & Homeostasis (Glucose/Osmoregulation),26,10,6,2,8
+IB,Grade 11,Biology HL,Human Physiology,Immunity: Antibodies & Vaccination (Intro),26,10,6,2,8
+IB,Grade 11,Biology HL,Human Physiology,Neurons & Synapses (Intro),26,10,6,2,8
+IB,Grade 11,Biology HL,Human Physiology,Ventilation & Gas Exchange,26,10,6,2,8
+IB,Grade 11,Biology HL,Molecular Biology,Biotech Basics: PCR & Gel Electrophoresis (Intro),26,10,6,2,8
+IB,Grade 11,Biology HL,Molecular Biology,"Carbohydrates, Lipids & Proteins",26,10,6,2,8
+IB,Grade 11,Biology HL,Molecular Biology,Central Dogma (Basic): Replication/Transcription/Translation,26,10,6,2,8
+IB,Grade 11,Biology HL,Molecular Biology,DNA vs RNA Structure,26,10,6,2,8
+IB,Grade 11,Biology HL,Molecular Biology,Enzymes: Mechanism & Factors,26,10,6,2,8
+IB,Grade 11,Biology HL,Molecular Biology,Water Properties & Biological Significance,26,10,6,2,8
+IB,Grade 11,Biology SL,Cell Biology,Cell Division: Cell Cycle & Mitosis,20,8,4,2,6
+IB,Grade 11,Biology SL,Cell Biology,Cell Theory & Cell Size (SA:V),20,8,4,2,6
+IB,Grade 11,Biology SL,Cell Biology,Membrane Structure & Transport (Intro),20,8,4,2,6
+IB,Grade 11,Biology SL,Cell Biology,"Microscopy, Magnification & Measurement",20,8,4,2,6
+IB,Grade 11,Biology SL,Cell Biology,Origin of Cells & Endosymbiosis,20,8,4,2,6
+IB,Grade 11,Biology SL,Cell Biology,Prokaryotic vs Eukaryotic Ultrastructure,20,8,4,2,6
+IB,Grade 11,Biology SL,Ecology,Climate Change: Evidence & Impacts (Intro),20,8,4,2,6
+IB,Grade 11,Biology SL,Ecology,Energy Flow & Trophic Levels,20,8,4,2,6
+IB,Grade 11,Biology SL,Ecology,Mesocosms & Experiments,20,8,4,2,6
+IB,Grade 11,Biology SL,Ecology,Nutrient Cycles: Carbon & Nitrogen,20,8,4,2,6
+IB,Grade 11,Biology SL,Ecology,Population Sampling & Niches,20,8,4,2,6
+IB,Grade 11,Biology SL,Ecology,"Species, Communities & Ecosystems",20,8,4,2,6
+IB,Grade 11,Biology SL,Evolution & Biodiversity,Classification & Cladistics,20,8,4,2,6
+IB,Grade 11,Biology SL,Evolution & Biodiversity,"Evidence for Evolution (Fossils, Biogeography)",20,8,4,2,6
+IB,Grade 11,Biology SL,Evolution & Biodiversity,Genetic Variation: Mutation & Meiosis,20,8,4,2,6
+IB,Grade 11,Biology SL,Evolution & Biodiversity,Natural Selection & Adaptation,20,8,4,2,6
+IB,Grade 11,Biology SL,Evolution & Biodiversity,Phylogenetic Trees (Reading & Inference),20,8,4,2,6
+IB,Grade 11,Biology SL,Evolution & Biodiversity,Speciation: Isolation & Barriers,20,8,4,2,6
+IB,Grade 11,Biology SL,Experimental Design & Data Analysis,"Data Tables, Graphs & Best-Fit Lines",20,8,4,2,6
+IB,Grade 11,Biology SL,Experimental Design & Data Analysis,Measurement Error & Uncertainty,20,8,4,2,6
+IB,Grade 11,Biology SL,Experimental Design & Data Analysis,"Sampling, Bias & Ethics",20,8,4,2,6
+IB,Grade 11,Biology SL,Experimental Design & Data Analysis,Scientific Communication & Evaluation,20,8,4,2,6
+IB,Grade 11,Biology SL,Experimental Design & Data Analysis,"Statistical Ideas (Mean/SD, Error Bars)",20,8,4,2,6
+IB,Grade 11,Biology SL,Experimental Design & Data Analysis,"Variables, Controls & Hypotheses",20,8,4,2,6
+IB,Grade 11,Biology SL,Genetics,"Chromosomes, Karyotyping & Non-disjunction",20,8,4,2,6
+IB,Grade 11,Biology SL,Genetics,Ethics of Genetics & GMOs (Intro),20,8,4,2,6
+IB,Grade 11,Biology SL,Genetics,"Gene Pools, Selection & Evolution (Intro)",20,8,4,2,6
+IB,Grade 11,Biology SL,Genetics,"Genes, Alleles & Loci; Mutations",20,8,4,2,6
+IB,Grade 11,Biology SL,Genetics,Inheritance Patterns (Monohybrid Basics),20,8,4,2,6
+IB,Grade 11,Biology SL,Genetics,Meiosis & Genetic Variation,20,8,4,2,6
+IB,Grade 11,Biology SL,Human Physiology,Circulation & Cardiac Cycle,20,8,4,2,6
+IB,Grade 11,Biology SL,Human Physiology,Digestion & Absorption,20,8,4,2,6
+IB,Grade 11,Biology SL,Human Physiology,Hormones & Homeostasis (Glucose/Osmoregulation),20,8,4,2,6
+IB,Grade 11,Biology SL,Human Physiology,Immunity: Antibodies & Vaccination (Intro),20,8,4,2,6
+IB,Grade 11,Biology SL,Human Physiology,Neurons & Synapses (Intro),20,8,4,2,6
+IB,Grade 11,Biology SL,Human Physiology,Ventilation & Gas Exchange,20,8,4,2,6
+IB,Grade 11,Biology SL,Molecular Biology,Biotech Basics: PCR & Gel Electrophoresis (Intro),20,8,4,2,6
+IB,Grade 11,Biology SL,Molecular Biology,"Carbohydrates, Lipids & Proteins",20,8,4,2,6
+IB,Grade 11,Biology SL,Molecular Biology,Central Dogma (Basic): Replication/Transcription/Translation,20,8,4,2,6
+IB,Grade 11,Biology SL,Molecular Biology,DNA vs RNA Structure,20,8,4,2,6
+IB,Grade 11,Biology SL,Molecular Biology,Enzymes: Mechanism & Factors,20,8,4,2,6
+IB,Grade 11,Biology SL,Molecular Biology,Water Properties & Biological Significance,20,8,4,2,6
+IB,Grade 10,Biology MYP,Biomolecules & Enzymes,"Carbohydrates, Lipids, Proteins (Functions)",18,7,4,2,5
+IB,Grade 10,Biology MYP,Biomolecules & Enzymes,Energy in Food & Calorimetry (Basic),18,7,4,2,5
+IB,Grade 10,Biology MYP,Biomolecules & Enzymes,Enzyme Structure & Active Site,18,7,4,2,5
+IB,Grade 10,Biology MYP,Biomolecules & Enzymes,Factors Affecting Enzyme Activity,18,7,4,2,5
+IB,Grade 10,Biology MYP,Biomolecules & Enzymes,"Food Tests (Benedict’s, Biuret, Iodine)",18,7,4,2,5
+IB,Grade 10,Biology MYP,Biomolecules & Enzymes,Lock-and-Key vs Induced-Fit (Concept),18,7,4,2,5
+IB,Grade 10,Biology MYP,Cell Structure & Function,Animal vs Plant Cells; Organelles,18,7,4,2,5
+IB,Grade 10,Biology MYP,Cell Structure & Function,Cell Membrane & Transport (Diffusion/Osmosis),18,7,4,2,5
+IB,Grade 10,Biology MYP,Cell Structure & Function,Cell Specialization & Stem Cells (Intro),18,7,4,2,5
+IB,Grade 10,Biology MYP,Cell Structure & Function,Microscopy & Magnification Calculations,18,7,4,2,5
+IB,Grade 10,Biology MYP,Cell Structure & Function,Prokaryotic vs Eukaryotic Cells,18,7,4,2,5
+IB,Grade 10,Biology MYP,Cell Structure & Function,Surface Area:Volume & Cell Size,18,7,4,2,5
+IB,Grade 10,Biology MYP,Cellular Processes,ATP as Cellular Energy Currency,18,7,4,2,5
+IB,Grade 10,Biology MYP,Cellular Processes,Aerobic vs Anaerobic Respiration,18,7,4,2,5
+IB,Grade 10,Biology MYP,Cellular Processes,"Limiting Factors (Light, CO2, Temp)",18,7,4,2,5
+IB,Grade 10,Biology MYP,Cellular Processes,Photosynthesis: Overview & Word Equation,18,7,4,2,5
+IB,Grade 10,Biology MYP,Cellular Processes,Practical Investigations (Yeast/Elodea),18,7,4,2,5
+IB,Grade 10,Biology MYP,Cellular Processes,Respiration vs Photosynthesis Comparison,18,7,4,2,5
+IB,Grade 10,Biology MYP,Ecology & Ecosystems,Carbon & Nitrogen Cycles (Basic),18,7,4,2,5
+IB,Grade 10,Biology MYP,Ecology & Ecosystems,Fieldwork: Quadrats/Transects,18,7,4,2,5
+IB,Grade 10,Biology MYP,Ecology & Ecosystems,Food Chains/Webs & Energy Flow,18,7,4,2,5
+IB,Grade 10,Biology MYP,Ecology & Ecosystems,Invasive Species & Biodiversity,18,7,4,2,5
+IB,Grade 10,Biology MYP,Ecology & Ecosystems,Population Growth & Limiting Factors,18,7,4,2,5
+IB,Grade 10,Biology MYP,Ecology & Ecosystems,Trophic Levels & Pyramids,18,7,4,2,5
+IB,Grade 10,Biology MYP,Evolution & Natural Selection,Antibiotic Resistance (Case Study),18,7,4,2,5
+IB,Grade 10,Biology MYP,Evolution & Natural Selection,Artificial Selection,18,7,4,2,5
+IB,Grade 10,Biology MYP,Evolution & Natural Selection,Evidence: Fossils & Comparative Anatomy,18,7,4,2,5
+IB,Grade 10,Biology MYP,Evolution & Natural Selection,Natural Selection (Peppered Moth etc.),18,7,4,2,5
+IB,Grade 10,Biology MYP,Evolution & Natural Selection,Speciation (Concept),18,7,4,2,5
+IB,Grade 10,Biology MYP,Evolution & Natural Selection,Variation & Adaptations,18,7,4,2,5
+IB,Grade 10,Biology MYP,Genetics & Inheritance (Intro),DNA Structure (Concept) & Chromosomes,18,7,4,2,5
+IB,Grade 10,Biology MYP,Genetics & Inheritance (Intro),Dominant vs Recessive; Phenotype/Genotype,18,7,4,2,5
+IB,Grade 10,Biology MYP,Genetics & Inheritance (Intro),"Genes, Alleles & Traits",18,7,4,2,5
+IB,Grade 10,Biology MYP,Genetics & Inheritance (Intro),Genetic Disorders (Intro & Ethics),18,7,4,2,5
+IB,Grade 10,Biology MYP,Genetics & Inheritance (Intro),Monohybrid Crosses (Punnett Squares),18,7,4,2,5
+IB,Grade 10,Biology MYP,Genetics & Inheritance (Intro),Pedigrees (Simple),18,7,4,2,5
+IB,Grade 10,Biology MYP,Human Body Systems I,Blood & Transport of Oxygen/Nutrients,18,7,4,2,5
+IB,Grade 10,Biology MYP,Human Body Systems I,Circulatory System & Heart Structure,18,7,4,2,5
+IB,Grade 10,Biology MYP,Human Body Systems I,Digestive System & Enzymes in Digestion,18,7,4,2,5
+IB,Grade 10,Biology MYP,Human Body Systems I,"Homeostasis (Body Temp, Glucose – Concept)",18,7,4,2,5
+IB,Grade 10,Biology MYP,Human Body Systems I,Lifestyle & Non-Communicable Diseases,18,7,4,2,5
+IB,Grade 10,Biology MYP,Human Body Systems I,Respiratory System & Gas Exchange,18,7,4,2,5
+IB,Grade 10,Biology MYP,Human Body Systems II,Endocrine System: Hormones (Intro),18,7,4,2,5
+IB,Grade 10,Biology MYP,Human Body Systems II,Excretory System: Kidney Function (Concept),18,7,4,2,5
+IB,Grade 10,Biology MYP,Human Body Systems II,Immune System Basics & Vaccination,18,7,4,2,5
+IB,Grade 10,Biology MYP,Human Body Systems II,Nervous System: Neurons & Reflexes,18,7,4,2,5
+IB,Grade 10,Biology MYP,Human Body Systems II,Reproductive Systems & Puberty,18,7,4,2,5
+IB,Grade 10,Biology MYP,Human Body Systems II,Skeletal & Muscular Systems,18,7,4,2,5
+IB,Grade 10,Biology MYP,Microorganisms & Disease,Antibiotics vs Antivirals (Concept),18,7,4,2,5
+IB,Grade 10,Biology MYP,Microorganisms & Disease,"Bacteria, Viruses, Fungi, Protists (Overview)",18,7,4,2,5
+IB,Grade 10,Biology MYP,Microorganisms & Disease,Immune Response (Innate vs Adaptive – Basic),18,7,4,2,5
+IB,Grade 10,Biology MYP,Microorganisms & Disease,Outbreaks & Epidemiology (Simple Graphs),18,7,4,2,5
+IB,Grade 10,Biology MYP,Microorganisms & Disease,Public Health & Vaccination,18,7,4,2,5
+IB,Grade 10,Biology MYP,Microorganisms & Disease,Transmission & Prevention,18,7,4,2,5
+IB,Grade 10,Biology MYP,Plants: Structure & Function,Leaf Structure & Gas Exchange,18,7,4,2,5
+IB,Grade 10,Biology MYP,Plants: Structure & Function,Mineral Nutrition & Soil,18,7,4,2,5
+IB,Grade 10,Biology MYP,Plants: Structure & Function,Photosynthesis Practical (Leaf Disks/Starch),18,7,4,2,5
+IB,Grade 10,Biology MYP,Plants: Structure & Function,"Plant Reproduction (Seeds, Pollination)",18,7,4,2,5
+IB,Grade 10,Biology MYP,Plants: Structure & Function,Transpiration & Water Transport (Concept),18,7,4,2,5
+IB,Grade 10,Biology MYP,Plants: Structure & Function,Tropisms (Intro),18,7,4,2,5
+IB,Grade 10,Biology MYP,Scientific Inquiry & Lab Skills,"Data Tables, Graphs & Best-Fit Lines",18,7,4,2,5
+IB,Grade 10,Biology MYP,Scientific Inquiry & Lab Skills,"Evaluation: Reliability, Validity, Improvements",18,7,4,2,5
+IB,Grade 10,Biology MYP,Scientific Inquiry & Lab Skills,"Measurement, Uncertainty & Significant Figures",18,7,4,2,5
+IB,Grade 10,Biology MYP,Scientific Inquiry & Lab Skills,Planning Investigations & Risk Assessment,18,7,4,2,5
+IB,Grade 10,Biology MYP,Scientific Inquiry & Lab Skills,Sampling Techniques & Avoiding Bias,18,7,4,2,5
+IB,Grade 10,Biology MYP,Scientific Inquiry & Lab Skills,"Variables, Controls & Hypotheses",18,7,4,2,5
+IB,Grade 9,Biology MYP,Biological Molecules (Intro),Balanced Diet & Food Groups,16,6,4,2,4
+IB,Grade 9,Biology MYP,Biological Molecules (Intro),Carbohydrates & Simple Sugars,16,6,4,2,4
+IB,Grade 9,Biology MYP,Biological Molecules (Intro),Enzyme Idea (Very Basic),16,6,4,2,4
+IB,Grade 9,Biology MYP,Biological Molecules (Intro),Lipids & Dietary Fats,16,6,4,2,4
+IB,Grade 9,Biology MYP,Biological Molecules (Intro),Proteins & Amino Acids (Concept),16,6,4,2,4
+IB,Grade 9,Biology MYP,Biological Molecules (Intro),Water as a Solvent,16,6,4,2,4
+IB,Grade 9,Biology MYP,Cells & Microscopy (Intro),Animal vs Plant Cells,16,6,4,2,4
+IB,Grade 9,Biology MYP,Cells & Microscopy (Intro),Cell Theory (Basics),16,6,4,2,4
+IB,Grade 9,Biology MYP,Cells & Microscopy (Intro),Diffusion & Osmosis (Concept),16,6,4,2,4
+IB,Grade 9,Biology MYP,Cells & Microscopy (Intro),Magnification = Image/Actual,16,6,4,2,4
+IB,Grade 9,Biology MYP,Cells & Microscopy (Intro),Microscope Parts & Use,16,6,4,2,4
+IB,Grade 9,Biology MYP,Cells & Microscopy (Intro),Organelles & Functions (Overview),16,6,4,2,4
+IB,Grade 9,Biology MYP,Ecology (Intro),Conservation & Human Impact,16,6,4,2,4
+IB,Grade 9,Biology MYP,Ecology (Intro),Cycles: Water & Carbon (Basic),16,6,4,2,4
+IB,Grade 9,Biology MYP,Ecology (Intro),Energy Transfer (Idea),16,6,4,2,4
+IB,Grade 9,Biology MYP,Ecology (Intro),Food Chains & Simple Webs,16,6,4,2,4
+IB,Grade 9,Biology MYP,Ecology (Intro),Population Changes (Graph Reading),16,6,4,2,4
+IB,Grade 9,Biology MYP,Ecology (Intro),"Producers, Consumers, Decomposers",16,6,4,2,4
+IB,Grade 9,Biology MYP,Genetics (Intro),Chromosomes & Genes (Idea),16,6,4,2,4
+IB,Grade 9,Biology MYP,Genetics (Intro),DNA as Hereditary Material (Concept),16,6,4,2,4
+IB,Grade 9,Biology MYP,Genetics (Intro),Dominant/Recessive (Everyday Examples),16,6,4,2,4
+IB,Grade 9,Biology MYP,Genetics (Intro),Ethics & Everyday Genetics,16,6,4,2,4
+IB,Grade 9,Biology MYP,Genetics (Intro),Punnett Squares (Very Simple),16,6,4,2,4
+IB,Grade 9,Biology MYP,Genetics (Intro),Simple Traits & Variation,16,6,4,2,4
+IB,Grade 9,Biology MYP,Human Body Basics,Circulatory System & Blood (Overview),16,6,4,2,4
+IB,Grade 9,Biology MYP,Human Body Basics,Digestive System Organs (Simple),16,6,4,2,4
+IB,Grade 9,Biology MYP,Human Body Basics,Excretory Organs (Overview),16,6,4,2,4
+IB,Grade 9,Biology MYP,Human Body Basics,Personal Health & Nutrition,16,6,4,2,4
+IB,Grade 9,Biology MYP,Human Body Basics,Respiratory System & Breathing,16,6,4,2,4
+IB,Grade 9,Biology MYP,Human Body Basics,Skeletal & Muscular Systems (Function),16,6,4,2,4
+IB,Grade 9,Biology MYP,Introduction to Biology,Biotic vs Abiotic Factors,16,6,4,2,4
+IB,Grade 9,Biology MYP,Introduction to Biology,Cells as Basic Unit of Life,16,6,4,2,4
+IB,Grade 9,Biology MYP,Introduction to Biology,Characteristics of Life,16,6,4,2,4
+IB,Grade 9,Biology MYP,Introduction to Biology,Ecosystem Examples,16,6,4,2,4
+IB,Grade 9,Biology MYP,Introduction to Biology,Habitats & Niches (Concept),16,6,4,2,4
+IB,Grade 9,Biology MYP,Introduction to Biology,Levels of Organization,16,6,4,2,4
+IB,Grade 9,Biology MYP,Microbes & Health,Antibiotics (Simple Idea),16,6,4,2,4
+IB,Grade 9,Biology MYP,Microbes & Health,Disease Prevention in Community,16,6,4,2,4
+IB,Grade 9,Biology MYP,Microbes & Health,Immune Response (Very Intro),16,6,4,2,4
+IB,Grade 9,Biology MYP,Microbes & Health,Transmission & Hygiene,16,6,4,2,4
+IB,Grade 9,Biology MYP,Microbes & Health,Useful vs Harmful Microbes,16,6,4,2,4
+IB,Grade 9,Biology MYP,Microbes & Health,Vaccination (Concept),16,6,4,2,4
+IB,Grade 9,Biology MYP,Plants (Intro),Gas Exchange in Leaves (Idea),16,6,4,2,4
+IB,Grade 9,Biology MYP,Plants (Intro),Photosynthesis Word Equation,16,6,4,2,4
+IB,Grade 9,Biology MYP,Plants (Intro),Plant Parts & Functions,16,6,4,2,4
+IB,Grade 9,Biology MYP,Plants (Intro),Role of Plants in Ecosystems,16,6,4,2,4
+IB,Grade 9,Biology MYP,Plants (Intro),Seed Germination Conditions,16,6,4,2,4
+IB,Grade 9,Biology MYP,Plants (Intro),Water Transport (Very Basic),16,6,4,2,4
+IB,Grade 9,Biology MYP,Reproduction & Growth,Asexual vs Sexual Reproduction,16,6,4,2,4
+IB,Grade 9,Biology MYP,Reproduction & Growth,Fertilization & Pregnancy (Overview),16,6,4,2,4
+IB,Grade 9,Biology MYP,Reproduction & Growth,Growth & Development (Concept),16,6,4,2,4
+IB,Grade 9,Biology MYP,Reproduction & Growth,Human Reproductive Systems (Basic),16,6,4,2,4
+IB,Grade 9,Biology MYP,Reproduction & Growth,Plant Reproduction (Flowers & Seeds),16,6,4,2,4
+IB,Grade 9,Biology MYP,Reproduction & Growth,Puberty & Hormonal Changes,16,6,4,2,4
+IB,Grade 9,Biology MYP,Working Scientifically,"Graphing Basics (Axes, Titles)",16,6,4,2,4
+IB,Grade 9,Biology MYP,Working Scientifically,"Mean, Range & Simple Error",16,6,4,2,4
+IB,Grade 9,Biology MYP,Working Scientifically,Recording Observations & Tables,16,6,4,2,4
+IB,Grade 9,Biology MYP,Working Scientifically,Safety & Lab Symbols,16,6,4,2,4
+IB,Grade 9,Biology MYP,Working Scientifically,"Using Basic Equipment (Ruler, Balance)",16,6,4,2,4
+IB,Grade 9,Biology MYP,Working Scientifically,Variables & Fair Tests,16,6,4,2,4
