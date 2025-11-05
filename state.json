@@ -1,10 +1,10 @@
 {
-  "current_row": 4,
+  "current_row": 5,
   "total_rows": 374,
-  "completed_subtopics": ["Action Potentials & Synaptic Integration", "Gas Exchange: Ventilation/Perfusion Matching"],
-  "current_subtopic": "Immunity: B/T Cells & Antibody Production",
+  "completed_subtopics": ["Action Potentials & Synaptic Integration", "Gas Exchange: Ventilation/Perfusion Matching", "Immunity: B/T Cells & Antibody Production"],
+  "current_subtopic": "Kidney Function & Osmoregulation (Nephron)",
   "questions_generated_for_current": 0,
   "target_per_subtopic": 25,
-  "last_updated": "2025-11-05T12:30:00Z",
+  "last_updated": "2025-11-05T13:00:00Z",
   "notes": "Row 1 is header. Start generation from row 2."
 }
