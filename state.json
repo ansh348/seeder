@@ -1,10 +1,10 @@
 {
-  "current_row": 16,
+  "current_row": 18,
   "total_rows": 374,
-  "completed_subtopics": ["Action Potentials & Synaptic Integration", "Gas Exchange: Ventilation/Perfusion Matching", "Immunity: B/T Cells & Antibody Production", "Kidney Function & Osmoregulation (Nephron)", "Muscle Structure & Sliding Filament", "Reproductive Hormones & Menstrual Cycle", "CRISPR–Cas Systems (Qualitative)", "Cloning Vectors & Recombinant DNA", "Culturing & Bioreactors (Basics)", "Ethical, Legal & Social Implications", "PCR/qPCR & DNA Profiling", "Restriction Enzymes & DNA Ligation", "Cell Division: Cell Cycle & Mitosis", "Cell Theory & Cell Size (SA:V)"],
-  "current_subtopic": "Membrane Structure & Transport (Intro)",
-  "questions_generated_for_current": 20,
+  "completed_subtopics": ["Action Potentials & Synaptic Integration", "Gas Exchange: Ventilation/Perfusion Matching", "Immunity: B/T Cells & Antibody Production", "Kidney Function & Osmoregulation (Nephron)", "Muscle Structure & Sliding Filament", "Reproductive Hormones & Menstrual Cycle", "CRISPR–Cas Systems (Qualitative)", "Cloning Vectors & Recombinant DNA", "Culturing & Bioreactors (Basics)", "Ethical, Legal & Social Implications", "PCR/qPCR & DNA Profiling", "Restriction Enzymes & DNA Ligation", "Cell Division: Cell Cycle & Mitosis", "Cell Theory & Cell Size (SA:V)", "Membrane Structure & Transport (Intro)", "Microscopy, Magnification & Measurement"],
+  "current_subtopic": "Origin of Cells & Endosymbiosis",
+  "questions_generated_for_current": 0,
   "target_per_subtopic": 25,
-  "last_updated": "2025-11-05T16:35:00Z",
-  "notes": "Row 1 is header. Start generation from row 2."
+  "last_updated": "2025-11-05T16:55:00Z",
+  "notes": "Row 1 is header. Start generation from row 2. Completed 4 subtopics this session: Cell Division, Cell Theory, Membrane Structure, Microscopy."
 }
