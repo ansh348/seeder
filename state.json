@@ -1,10 +1,10 @@
 {
-  "current_row": 3,
+  "current_row": 4,
   "total_rows": 374,
-  "completed_subtopics": ["Action Potentials & Synaptic Integration"],
-  "current_subtopic": "Gas Exchange: Ventilation/Perfusion Matching",
-  "questions_generated_for_current": 10,
+  "completed_subtopics": ["Action Potentials & Synaptic Integration", "Gas Exchange: Ventilation/Perfusion Matching"],
+  "current_subtopic": "Immunity: B/T Cells & Antibody Production",
+  "questions_generated_for_current": 0,
   "target_per_subtopic": 25,
-  "last_updated": "2025-11-05T12:00:00Z",
+  "last_updated": "2025-11-05T12:30:00Z",
   "notes": "Row 1 is header. Start generation from row 2."
 }
